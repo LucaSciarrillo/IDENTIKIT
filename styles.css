@@ -1,0 +1,26 @@
+li{
+    display: inline;
+
+  }
+  nav{
+      background-color: grey;
+      text-align: center;
+      height: 50px;
+      line-height: 50px;
+  }
+  .item{
+      text-decoration: none;
+      border: solid 1px;
+      padding: 5px;
+      margin: 10px;
+      border-radius: 10px;
+      color: black;
+      font-size: 23pt;
+      text-align: center;
+      
+  }
+ 
+
+ 
+
+  
